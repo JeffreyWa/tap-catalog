@@ -4,7 +4,7 @@ metadata:
   name: wardemo-component
   description: Tanzu Application Platform Developer Portal Component
   tags:
-    - Jeffrey
+    - jeffrey
   annotations:
     "backstage.io/kubernetes-label-selector": "tanzu.app.live.view.application.name=war-demo1"
     "backstage.io/techdocs-ref": dir:.
