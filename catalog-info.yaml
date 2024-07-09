@@ -8,6 +8,7 @@ metadata:
 spec:
   targets:
     - ./components/tdp.yaml
+    - ./components/wardemo.yaml
     - ./groups/default-org.yaml
     - ./systems/tdp-system.yaml
     - ./domains/tdp-domain.yaml
